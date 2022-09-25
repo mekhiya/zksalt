@@ -1,0 +1,15 @@
+node_modules
+
+salt/ptau
+
+salt/salt_cpp
+salt/salt_js
+salt/salt_0000.zkey
+salt/salt_final.zkey
+salt/salt.r1cs
+salt/salt.sym
+salt/proof.json
+salt/public.json
+salt/verification_key.json
+salt/saltVerifier.sol
+salt/parameters.txt
